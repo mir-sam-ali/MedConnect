@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_shopowner_home_page);
+        setContentView(R.layout.activity_shopowner_booking_history);
 //        Button signup = (Button)findViewById(R.id.signup);
 //        signup.setOnClickListener(new View.OnClickListener() {
 //            @Override
